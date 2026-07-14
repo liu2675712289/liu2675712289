@@ -46,14 +46,6 @@
 * 📖 喜欢阅读源码，并将学习成果整理成项目
 * 🤝 希望参与更多有趣的开源项目
 
-## 🧰 Tech Stack
-
-* **Languages:** Python
-* **AI:** PyTorch、Transformers、LLM、AI Agent
-* **Backend:** FastAPI、Flask
-* **Tools:** Git、GitHub、Linux、Docker
-* **CLI / TUI:** Typer、Textual
-
 ## 📌 Current Focus
 * 图像处理
 * 大语言模型基础原理与实现
