@@ -21,7 +21,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/liu2675712289/liu2675712289/blob/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/liu2675712289/liu2675712289/blob/output/github-snake.svg">
-  <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liu2675712289/liu2675712289/output/github-contribution-grid-snake.svg"> -->
+  <img alt="github contribution grid snake animation" src="https://github.com/liu2675712289/liu2675712289/blob/output/github-snake.svg">
 </picture>
 
 </div>
