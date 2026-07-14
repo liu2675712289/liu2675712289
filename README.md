@@ -1,4 +1,4 @@
-
+<div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
@@ -34,11 +34,42 @@
 
 ### 🤺 About Me
 
+# 👋 Hi, I'm Liu
 
-<p>&emsp;&emsp;嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</p>
-<p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+一名热爱编程与开源技术的开发者，目前主要关注 **Python、人工智能、大语言模型和 AI Agent** 相关技术。
+
+我喜欢通过实际项目学习新知识，也热衷于研究优秀开源项目的设计与实现。目前正在探索如何构建更易用、更可靠的智能体应用和开发者工具。
+
+## 🚀 About Me
+
+* 🔭 正在学习和开发 AI Agent 相关项目
+* 🌱 持续探索大语言模型、深度学习和开源技术
+* 🐍 主要使用 Python 进行项目开发
+* 🛠️ 关注 CLI、TUI、自动化工具与工程化实践
+* 📖 喜欢阅读源码，并将学习成果整理成项目
+* 🤝 希望参与更多有趣的开源项目
+
+## 🧰 Tech Stack
+
+* **Languages:** Python
+* **AI:** PyTorch、Transformers、LLM、AI Agent
+* **Backend:** FastAPI、Flask
+* **Tools:** Git、GitHub、Linux、Docker
+* **CLI / TUI:** Typer、Textual
+
+## 📌 Current Focus
+
+* 大语言模型基础原理与实现
+* AI Agent 架构与工具调用
+* 多智能体协作系统
+* Python 项目工程化
+* 开源项目源码学习
+
+## 📫 Contact
+
+欢迎通过 GitHub 与我交流技术、分享想法，或者一起参与有趣的开源项目。
+
+> Keep learning, keep building.
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -48,14 +79,5 @@
 
 </table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
