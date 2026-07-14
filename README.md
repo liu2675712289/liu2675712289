@@ -26,13 +26,13 @@
 
 </div>
 
-# 👋 Hi, I'm Liu
+
 
 <table>
   
 <tr><td>
 
-### 🤺 About Me
+# 👋 Hi, I'm Liu
 
 一名热爱编程与开源技术的开发者，目前主要关注 **Python、人工智能、大语言模型和 AI Agent** 相关技术。
 
